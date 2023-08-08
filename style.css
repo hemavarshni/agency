@@ -65,6 +65,9 @@ body{
     color: #a517ba,#5f1782;
 }
 
+
+
+
 /*-----------------service section-------------------*/
 
 #services{
@@ -187,7 +190,7 @@ body{
 }
 .footer-img{
     width: 100%;
-    background-image: linear-gradient(to right,#a517ba,#5f1782);
+    
 }
 .footer-box img{
     width: 120px;
